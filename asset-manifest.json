@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e3cd202.css",
-    "main.js": "/static/js/main.06ff44c2.js",
-    "static/media/background.jpg": "/static/media/background.5229ef58adb708f1bdd6.jpg",
-    "static/media/dota-icon.png": "/static/media/dota-icon.a667ad4501eb1cd62a10.png",
-    "static/media/intellegent.jpg": "/static/media/intellegent.a38209711b5051be6930.jpg",
-    "static/media/agillity.jpg": "/static/media/agillity.613ccfdf76fd3e473e8d.jpg",
+    "main.css": "/static/css/main.a13b662f.css",
+    "main.js": "/static/js/main.291b8b32.js",
     "index.html": "/index.html",
-    "main.9e3cd202.css.map": "/static/css/main.9e3cd202.css.map",
-    "main.06ff44c2.js.map": "/static/js/main.06ff44c2.js.map"
+    "static/media/close.svg": "/static/media/close.c76ad28c33323dfe86ec1e4bcf9c5b6c.svg",
+    "main.a13b662f.css.map": "/static/css/main.a13b662f.css.map",
+    "main.291b8b32.js.map": "/static/js/main.291b8b32.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e3cd202.css",
-    "static/js/main.06ff44c2.js"
+    "static/css/main.a13b662f.css",
+    "static/js/main.291b8b32.js"
   ]
 }
